@@ -29,6 +29,6 @@ print("\n")
 # ------------------------------------
 
 
-array =np.delete(array, 0, 1)
+array =np.delete(array, 2, 1)
 for a in array:
     print (*a)
