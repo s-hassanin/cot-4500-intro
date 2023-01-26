@@ -1,6 +1,6 @@
 # cot-4500-intro
 
-To compile the code on the cpmmand line:
+To compile the code on the command line:
 python intro_to_pthon.py
 
 This code is printing a 3 3x3 matrecies using for loops
